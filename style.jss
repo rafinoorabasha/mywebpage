@@ -3,7 +3,7 @@ body {
   max-width: 700px;
   margin: auto;
   padding: 20px;
-  background-color: #f5f5f5;
+  background-color: #cfcfcf;
   color: #333;
 }
 
